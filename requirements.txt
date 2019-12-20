@@ -3,3 +3,4 @@ ipywidgets
 nbinteract
 ipyvolume
 bqplot
+voila
